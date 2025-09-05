@@ -4,12 +4,12 @@
 [![LinkedIn](https://img.shields.io/badge/Linkedin-informational?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/DorienHuijser) 
 [![ORCID](https://img.shields.io/badge/ORCID-darkgreen?style=flat-square&logo=orcid)](https://orcid.org/0000-0003-3282-8083)
 [![OSF](https://img.shields.io/badge/Open_Science_Framework-29bcf3?style=flat-square&logo=open-access)](https://osf.io/n6ba2/)
-[![University profile](https://img.shields.io/badge/University_profile-FFCD00?style=flat-square&logo=gmail&logoColor=white)](https://www.uu.nl/staff/DCHuijser)
+[![University profile](https://img.shields.io/badge/University_profile-FFCD00?style=flat-square&logo=gmail&logoColor=white)](https://www.tudelft.nl/en/staff/d.c.huijser/)
 
 Some facts about me:
-- 💼 I am  a research data manager (she/her) at Utrecht University.  
+- 💼 I am training coordinator for Research Data Netherlands (based at 4TU.ResearchData, TU Delft). I work on a 4-year project dedicated to creating a training and community platform for research data professionals.   
 - ✍️ I use Git(hub) mostly for documentation, not so much for hardcore coding!
-- 🧠 I was schooled to be a Neuroscientist, but switched to being data support staff.
+- 🧠 I was schooled to be a Cognitive Neuroscientist, but switched to being data support staff.
 <br>
 
 * 🔭 **Keywords**: Research Data Management, Data Privacy, Metadata, Project management, Open Science, Reproducibility
